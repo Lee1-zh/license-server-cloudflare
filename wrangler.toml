@@ -5,4 +5,4 @@ compatibility_date = "2024-01-01"
 # KV存储绑定（授权数据存储在这里）
 [[kv_namespaces]]
 binding = "LICENSE_KV"
-id = "your_kv_namespace_id_here"  # 创建KV后替换
+id = "32e9b73694b1414f934b9d5234113462"  # 创建KV后替换
